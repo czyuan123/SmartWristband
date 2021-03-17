@@ -4,6 +4,6 @@
 
 //change variable
 #define DEVICE_ID "John"
-#define SECRET_BROKER "SmartWristband3.azure-devices.net"   //input hostname
-#define SECRET_DEVICEID "smartwristband" //input device name
+#define SECRET_BROKER "xxx.azure-devices.net"   //input hostname
+#define SECRET_DEVICEID "xxx" //input device name
 #define MODE RELEASE_TIME  //change to release_time when deploying
